@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  Show name:
+  Show-name:
     runs-on: ubuntu-latest
     
     steps:
